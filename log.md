@@ -9,6 +9,7 @@
 5. A simple basketball game app where the user throws basketballs at a hoop
 6. FreeCodeCamp project ideas
 7. Code Jam Contest challenges
+
 ---
 ## Day 0: December 31, 2016
 
