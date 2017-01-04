@@ -28,7 +28,8 @@ I will also update my resources file periodically to keep track of the resources
 
 **What I learned**: Coding in HTML is not so much problem solving as it is memorization of when to use what where. Bootstrap has very specialized classes for certain things so I had to constantly look up different classes to match what I was thinking. Once the classes are memorized I imagine the process will go a lot more quickly.
 
-**Next Time**: I hope to get more of the text I want on the page, I might start working on the styling tomorrow also. I imagine that will take quite awhile in order for me to get to a point where I am satisfied. 
+**Next Time**: I hope to get more of the text I want on the page, I might start working on the styling tomorrow also. I imagine that will take quite awhile in order for me to get to a point where I am satisfied.
+
 ---
 ## Contents
 * [Rules](rules.md)
