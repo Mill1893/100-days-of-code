@@ -21,6 +21,14 @@ I have a project I'm doing with through my school with a professor, while I woul
 I hope that I am able to maintain focus throughout the 100 days and want to be a better coder after it is finished.
 I will also update my resources file periodically to keep track of the resources I've used. While many of my resources are free, I have purchased some [Udemy](https://www.udemy.com/courses/) courses that I also recommend. I will update this page again on the 3rd.
 
+
+## Day 1: January 3, 2017
+
+**What I Did**: I began by creating a repo on Github for my portfolio. I then used Atom to create an index html file and added Bootstrap and some google fonts for my own creative purposes. Created a navbar and began on the meat of the webpage with a jumbotron front page and an about page underneath.
+
+**What I learned**: Coding in HTML is not so much problem solving as it is memorization of when to use what where. Bootstrap has very specialized classes for certain things so I had to constantly look up different classes to match what I was thinking. Once the classes are memorized I imagine the process will go a lot more quickly.
+
+**Next Time**: I hope to get more of the text I want on the page, I might start working on the styling tomorrow also. I imagine that will take quite awhile in order for me to get to a point where I am satisfied. 
 ---
 ## Contents
 * [Rules](rules.md)
