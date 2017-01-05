@@ -26,9 +26,19 @@ I will also update my resources file periodically to keep track of the resources
 
 **What I Did**: I began by creating a repo on Github for my portfolio. I then used Atom to create an index html file and added Bootstrap and some google fonts for my own creative purposes. Created a navbar and began on the meat of the webpage with a jumbotron front page and an about page underneath.
 
-**What I learned**: Coding in HTML is not so much problem solving as it is memorization of when to use what where. Bootstrap has very specialized classes for certain things so I had to constantly look up different classes to match what I was thinking. Once the classes are memorized I imagine the process will go a lot more quickly.
+**What I Learned**: Coding in HTML is not so much problem solving as it is memorization of when to use what where. Bootstrap has very specialized classes for certain things so I had to constantly look up different classes to match what I was thinking. Once the classes are memorized I imagine the process will go a lot more quickly.
 
 **Next Time**: I hope to get more of the text I want on the page, I might start working on the styling tomorrow also. I imagine that will take quite awhile in order for me to get to a point where I am satisfied.
+
+
+## Day 2: January 4, 2017
+
+**What I Did**: I installed Node.js on my computer so I could use the live-server application with my Atom text editor. I added a stylesheet and messed around with trying to get things where I wanted them.
+
+**What I Learned**: I now know that I should take each section one at a time with styling so that I can get it the way I want it before I move on. HTML only looks so pretty(not at all) so I need to make sure I get the styling down before I continue making more content. Also live-server is pretty cool.
+
+**Next Time**: Hopefully finish up fixing my styling for my jumbotron area of the page and then move on to styling the about section.
+
 
 ---
 ## Contents
