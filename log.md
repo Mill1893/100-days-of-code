@@ -30,6 +30,8 @@ I will also update my resources file periodically to keep track of the resources
 
 **Next Time**: I hope to get more of the text I want on the page, I might start working on the styling tomorrow also. I imagine that will take quite awhile in order for me to get to a point where I am satisfied.
 
+**Link to Work**: [Webpage Portfolio]("https://github.com/Mill1893/WebsitePortfolio")
+
 
 ## Day 2: January 4, 2017
 
@@ -38,6 +40,19 @@ I will also update my resources file periodically to keep track of the resources
 **What I Learned**: I now know that I should take each section one at a time with styling so that I can get it the way I want it before I move on. HTML only looks so pretty(not at all) so I need to make sure I get the styling down before I continue making more content. Also live-server is pretty cool.
 
 **Next Time**: Hopefully finish up fixing my styling for my jumbotron area of the page and then move on to styling the about section.
+
+**Link to Work**: [Webpage Portfolio]("https://github.com/Mill1893/WebsitePortfolio")
+
+
+## Day 3: January 5, 2017
+
+**What I Did**: Got rid of a lot of what I had, added some styling to my jumbotron, used internal styling, might switch to external styling later.
+
+**What I Learned**: Inline styling can be easier to manage for smaller pages, but gets long quickly, however it is nice to have everything all in one file.
+
+**Next Time**:Continue working on the project, hopefully start adding placeholders for projects I can change when I get projects to add, hopefully add a bootstrap panel.
+
+**Link to Work**: [Webpage Portfolio]("https://github.com/Mill1893/WebsitePortfolio")
 
 
 ---
