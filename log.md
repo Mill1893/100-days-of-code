@@ -54,6 +54,14 @@ I will also update my resources file periodically to keep track of the resources
 
 **Link to Work**: [Webpage Portfolio]("https://github.com/Mill1893/WebsitePortfolio")
 
+## Day 4: January 7, 2017
+
+**What I Did**: Added two new files, carousel and panel, both of which I'd like to use in my portfolio. Tested them out, I'd like to have a list of other projects underneath the carousel that includes everything I've done.
+
+**What I Learned**: Bootstrap has some pretty cool features that can really make a page stand out a little more. The carousel feature I especially like as I see it in a lot of websites and it adds some movement.
+
+**Next Time**: Actually use the code I wrote today in the index file, add style the page so it looks better.
+
 
 ---
 ## Contents
