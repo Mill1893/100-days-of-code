@@ -62,6 +62,14 @@ I will also update my resources file periodically to keep track of the resources
 
 **Next Time**: Actually use the code I wrote today in the index file, add style the page so it looks better.
 
+## Day 5: January 8, 2017
+
+**What I Did**: My desire to start working on bigger projects has led me to usually a simple template from w3schools for a company page. I'm modifying the page to match my information. Hopefully I'll be able to finish the page by the 10th so I can work on bigger and better things.
+
+**What I Learned**: Programming in HTML and CSS is fun and rewarding but can be time consuming, bootstrap helps but it also has it's time constraints. For a later project I'd like to do a new page from scratch, preferably using some JavaScript frameworks, but for now, the template will work for my portfolio.
+
+**Next Time**: Continue working on the template, get all my information the way I want it. Add some added styling, added functionality.
+
 
 ---
 ## Contents
