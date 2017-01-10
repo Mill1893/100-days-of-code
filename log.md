@@ -62,6 +62,8 @@ I will also update my resources file periodically to keep track of the resources
 
 **Next Time**: Actually use the code I wrote today in the index file, add style the page so it looks better.
 
+**Link to Work**: [Webpage Portfolio]("https://github.com/Mill1893/WebsitePortfolio")
+
 ## Day 5: January 8, 2017
 
 **What I Did**: My desire to start working on bigger projects has led me to usually a simple template from w3schools for a company page. I'm modifying the page to match my information. Hopefully I'll be able to finish the page by the 10th so I can work on bigger and better things.
@@ -69,6 +71,18 @@ I will also update my resources file periodically to keep track of the resources
 **What I Learned**: Programming in HTML and CSS is fun and rewarding but can be time consuming, bootstrap helps but it also has it's time constraints. For a later project I'd like to do a new page from scratch, preferably using some JavaScript frameworks, but for now, the template will work for my portfolio.
 
 **Next Time**: Continue working on the template, get all my information the way I want it. Add some added styling, added functionality.
+
+**Link to Work**: [Webpage Portfolio]("https://github.com/Mill1893/WebsitePortfolio")
+
+## Day 6: January 9, 2017
+
+**What I Did**: So close to being done! Changed some styling, some ordering of the page, made it a little more to my liking. Added a face shot of myself. Almost ready to call the project good for now.
+
+**What I Learned**: Seeing a project come to completion is really rewarding. I'm not completely there yet, and the work isn't entirely original but what I have done feels really rewarding to see on the page.
+
+**Next Time**: Finish up some styling, hoping to add a modal to the images, maybe make them polaroid looking, edit out the lorem text and maybe finally put on my domain name tomorrow.
+
+**Link to Work**: [Webpage Portfolio]("https://github.com/Mill1893/WebsitePortfolio")
 
 
 ---
