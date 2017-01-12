@@ -84,6 +84,16 @@ I will also update my resources file periodically to keep track of the resources
 
 **Link to Work**: [Webpage Portfolio]("https://github.com/Mill1893/WebsitePortfolio")
 
+## Day 7: January 11, 2017
+
+**What I Did**: Complete! Removed lorem text. added languages for skills, changed some background colors, proofread everything. Later I'm going to make the images polaroid and add modal's so that the images can be easier seen.
+
+**What I Learned**: Seeing my first project come together on it's own was really rewarding. Now I just need to fill all the placeholders with actual projects.
+
+**Next Time**: I think I'm going to start out small and try a simple program in Python that I can hopefully get done in a couple of days. That way I'll have something to link to my webpage.
+
+**Link to Work**: [Webpage Portfolio]("https://github.com/Mill1893/WebsitePortfolio")
+
 
 ---
 ## Contents
